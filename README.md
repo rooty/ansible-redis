@@ -1,6 +1,6 @@
 # ansible-redis
 
-[![Build Status](https://travis-ci.org/rooty/ansible-redis.svg?branch=master)](https://travis-ci.org/rooty/ansible-redis) [![Ansible Galaxy](https://img.shields.io/badge/galaxy-DavidWittman.redis-blue.svg?style=flat)](https://galaxy.ansible.com/detail#/role/730)
+[![Build Status](https://travis-ci.org/rooty/ansible-redis.svg?branch=master)](https://travis-ci.org/rooty/ansible-redis) [![Ansible Galaxy](https://img.shields.io/badge/galaxy-rooty.ansible_redis-blue.svg?style=flat)](https://galaxy.ansible.com/detail#/role/730)
 
  - Ansible 2.1+
    - Ansible 1.9.x is currently supported, but it will be deprecated soon

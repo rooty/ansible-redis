@@ -2,6 +2,8 @@
 galaxy_info:
   author: Vitaliy Mikhnevych
   description: Highly configurable role to install Redis and Redis Sentinel from source
+  role_name: redis
+  company: BlackRoot kft.
   min_ansible_version: 2.5.0
   license: MIT
   platforms:
