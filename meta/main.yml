@@ -16,15 +16,15 @@ galaxy_info:
     - name: EL
       versions:
         - 6
+        - 7
     - name: SLES
       versions:
         - 11
         - 12
   galaxy_tags:
     - database
-    - database:nosql
+    - nosql
     - centos6
     - ubuntu
     - debian
-    
 dependencies: []
