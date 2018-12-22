@@ -23,5 +23,8 @@ galaxy_info:
   galaxy_tags:
     - database
     - database:nosql
+    - centos6
+    - ubuntu
+    - debian
     
 dependencies: []
