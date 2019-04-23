@@ -330,3 +330,4 @@ The following facts are accessible in your inventory or tasks outside of this ro
 - `{{ ansible_local.redis.sentinel_monitors }}`
 
 To disable these facts, set `redis_local_facts` to a false value.
+
