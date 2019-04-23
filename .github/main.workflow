@@ -1,6 +1,6 @@
-workflow "New workflow" {
-  on = "push"
+workflow "Test workflow" {
   resolves = ["GitHub Action for Slack"]
+  on = "push"
 }
 
 action "Docker Registry" {
